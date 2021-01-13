@@ -1,0 +1,12 @@
+(1). React native adalah sebuah framework milik JavaScript yang biasa 
+dikembangkan dan digunakan oleh platform Facebook untuk membuat aplikasi pada Pernagkat Mobile (Android atau juga iOS). React Native menggunakan bahas pemrograman Javascript dalam proses Build dan Pengoperasiannya
+
+selain itu React Native juga berbeda dengan NativeJs biasa yang memerlukan waktu lama dalam coding, Dengan menggunakan react native, maka developer sudah tidak perlu membuat aplikasi hybrid yang akan memakan waktu cukup lama. 
+Bahkan, keunggulan React Native adalah  memungkinkan untuk melakukan kompilasi aplikasi ke native code pada perangkat Mobile (iOS atau juga Android).
+
+React Native bisa di RUn dengan bantuan aplikasi Expo pada android atau dengan virtual device manual pada laptop atau PC
+
+
+
+
+

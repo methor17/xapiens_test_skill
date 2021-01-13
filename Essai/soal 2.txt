@@ -1,0 +1,6 @@
+(2). aturan tentang React Native
+- aturan penulisan React Native sama dengan aturan dari penulisan JavaScript 
+- saat proses penulisan program sama harus menggunakan (;) di akhir statement
+- Editor harus menginstall nodeJs,NPM, dan Virtual mobile device untuk run
+- React Native banyak menggunakan Bahasa pemrograman Javascript
+- React Native bisa untuk mengembangkan Android dan IOS
